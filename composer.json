@@ -1,0 +1,22 @@
+{
+    "name": "etwservice/keygen",
+    "description": "A simple key workd generator service  for ZF2",
+    "type": "library",
+    "keywords": [
+        "zf2",
+        "etw",
+        "service",
+        "key gen",
+    ],
+    "homepage": "https://github.com/",
+    "license": "BSD-3-Clause",    ,
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://github.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
